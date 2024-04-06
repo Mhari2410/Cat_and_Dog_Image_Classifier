@@ -25,5 +25,5 @@ Possible future improvements to this project include:
 - Fine-tuning hyperparameters to optimize performance further.
 
 ## Credits
-This project was developed by [Your Name]. If you have any questions or suggestions, feel free to contact me at [Your Email].
+This project was developed by Haripriya R. If you have any questions or suggestions, feel free to contact me at rharipriya234@gmail.com.
 
