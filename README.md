@@ -10,7 +10,7 @@ The model was trained on a dataset consisting of thousands of labeled images of 
 The CNN architecture used for this project consists of multiple convolutional layers followed by max-pooling layers to extract features from the images. The extracted features are then passed through fully connected layers to make predictions.
 
 ## Performance
-The model achieved an accuracy of [insert accuracy here] on the test set, demonstrating its effectiveness in classifying images of dogs and cats.
+The model achieved a good accuracy on the test set, demonstrating its effectiveness in classifying images of dogs and cats.
 
 ## Usage
 To use this project, follow these steps:
